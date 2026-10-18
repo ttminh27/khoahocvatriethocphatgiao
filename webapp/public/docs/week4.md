@@ -107,9 +107,6 @@ ngặt không thể nói chuyện tự do, thiếu trật tự.
     3.  ***Nhân chứng minh*** - Lý do chứng minh: Ví dụ: "vì được làm
         ra ".
 
-```{=html}
-<!-- -->
-```
 -   **Đối với người trả lời**: Chỉ được phép trả lời trong bốn câu:
 
     1.  **"Chấp nhận"**.

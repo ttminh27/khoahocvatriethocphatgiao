@@ -280,22 +280,13 @@ Ví dụ, khi hỏi: "Bạn là người Việt Nam hay là người Ấn?", khi
 
 -   Để phủ định họ không phải là người Việt mà là người Ấn:
 
-```{=html}
-<!-- -->
-```
 -   Chúng ta giải thích rằng người Ấn thì ở nước Ấn, thuộc vùng Nam Á, ở
     đó có rất nhiều ngôn ngữ và tín ngưỡng chủ yếu là đạo Hindu (Ấn Độ
     giáo),\... dùng những điểm đó để phủ định họ không phải là người
     Việt.
 
-```{=html}
-<!-- -->
-```
 -   Còn để khẳng định họ là người Việt:
 
-```{=html}
-<!-- -->
-```
 -   Chúng ta chứng minh rằng Việt Nam ở gần Trung Quốc, có Biển Đông rất
     lớn, có nền văn hóa đặc trưng và phần lớn theo Phật giáo Đại
     thừa,... để khẳng định họ là người Việt.

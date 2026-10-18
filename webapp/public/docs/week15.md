@@ -30,9 +30,6 @@ bốn hoặc tám loại** (**trang 225**):
     diệt;** **(6) Phi trạch diệt; (7) Bất động;** **(8) Diệt thọ
     tưởng.**
 
-```{=html}
-<!-- -->
-```
 -   **(1)-(2)-(3)** Ba loại đầu đều là pháp **chân như**, nhưng được gọi
     > khác nhau theo pháp làm nền tảng: thiện, bất thiện hoặc vô ký.
     > Chẳng hạn, tính không của cái bình và tính không của cây cột không
@@ -91,9 +88,6 @@ này là Tenzin Tashi." Người đó chính là **ví dụ minh họa**.
 
 -   **Danh**: tên gọi Tenzin Tashi.
 
-```{=html}
-<!-- -->
-```
 -   **Nghĩa**: những đặc điểm giúp xác định người mang tên ấy.
 
 -   **Ví dụ**: người cụ thể được gọi là Tenzin Tashi.

@@ -218,9 +218,6 @@ Theo **Tỳ-bà-sa bộ**:
     bao là hai vật khác nhau tách biệt nhau. "Pháp đạt được" khác biệt
     "đạt được" tự thể độc lập
 
-```{=html}
-<!-- -->
-```
 -   **Đắc** không phải là bản thân thiện đức, mà là một **chất thể hay
     năng lực tiềm tàng** tồn tại trong dòng tương tục của hữu tình.
 

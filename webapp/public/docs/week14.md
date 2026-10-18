@@ -161,9 +161,6 @@ nhiều cách khác nhau:
     duyên hội tụ**. Chẳng hạn, để **nhãn thức** phát khởi cần có ba điều
     kiện:
 
-```{=html}
-<!-- -->
-```
 -   **Cảnh:** hình sắc làm đối tượng nhận biết.
 
 -   **Giác quan:** của mắt phải tốt có thể thấy được để nhận biết hình
@@ -172,9 +169,6 @@ nhiều cách khác nhau:
 -   **Tăng thượng duyên:** là điều kiện làm môi giới kết nối giác quan
     > với ý thức, nhờ đó nhận thức của mắt phát khởi.
 
-```{=html}
-<!-- -->
-```
 -   **Trụ nhân:** là nhân giúp **duy trì sự tồn tại**. Ví dụ, **bốn loại
     thức ăn** (đoàn thực, xúc thực, tư thực và thức thực) nuôi dưỡng
     sinh mạng và duy trì mạng sống.

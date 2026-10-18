@@ -100,9 +100,6 @@ tính ngừng nghỉ, tính hồi phục."* (**trang 180**)
 
 -   **Tính chết:**
 
-```{=html}
-<!-- -->
-```
 -   Tính chết không thuộc sự xúc chạm nhưng liên quan tới **sinh mạng**.
 
 -   Sinh mạng được nắm giữ bởi **khí và hơi ấm**. Khi sắp chết, tính
