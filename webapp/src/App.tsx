@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
+import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw';
 import { Book, Play, ArrowLeft, Lightbulb, SplitSquareVertical, Zap } from 'lucide-react';
 import { chapters } from './data/chapters';
 import { quizzes } from './data/quiz';
@@ -21,7 +23,9 @@ const MarkdownViewer: React.FC<{ url: string; onBack: () => void }> = ({ url, on
         <ArrowLeft size={20} /> Trở về
       </button>
       <div className="md-viewer glass-card">
-        <ReactMarkdown>{content}</ReactMarkdown>
+        <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>
+          {content}
+        </ReactMarkdown>
       </div>
     </div>
   );
