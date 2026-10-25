@@ -35,10 +35,10 @@ tiếp của giác quan, mà căn cứ vào **âm thanh, nội dung được di�
 tư duy phân biệt** như thế nào:
 
 -   **Không hiện ra riêng biệt,** không thể phân chia ra được thì gọi là
-    > **Một**.
+    **Một**.
 
 -   **Hiện ra riêng biệt,** có thể phân chia ra được thì gọi là
-    > **Khác**.
+    **Khác**.
 
 -   **Cùng một chất thể, cùng một bản thể** **không nhất thiết là Một**.
 
@@ -62,7 +62,7 @@ tôi"**.
 -   **"Tôi"** là chủ thể.
 
 -   **"Cái của tôi"** là cơ thể, tay chân và những bộ phận thuộc về chủ
-    > thể.
+    thể.
 
 Trong tư duy khái niệm, **"tôi" và "cái của tôi" hiện ra khác nhau**,
 **không phải là Một**. Tuy nhiên, khi chỉ nói đến **một cá thể hay một
@@ -88,15 +88,15 @@ vàng là **Khác**, dù không phải hai chất tách rời.
 Khi thấy Sư Cô từ xa, việc nhận diện diễn ra theo từng mức độ:
 
 -   Khoảng **ba cây số**, chỉ thấy sự di động và biết đó là **hữu
-    > tình**.
+    tình**.
 
 -   Khoảng **hai cây số**, nhận ra hình dáng **con người**.
 
 -   Đến gần hơn, thấy người ấy không có tóc và mặc áo tu, nên nhận ra là
-    > **Sư Cô**.
+    **Sư Cô**.
 
 -   Sau đó, biết đó là **người Việt Nam** tên **Tenzin Yangchen**
-    > (**Anila Yangchen**).
+    (**Anila Yangchen**).
 
 **Cá thể, hữu tình, con người, Sư Cô, người Việt Nam và Tenzin
 Yangchen** cùng chỉ một người, không thể tách thành nhiều cá thể. Vì
@@ -112,10 +112,10 @@ Khái niệm **một chất thể** và **khác chất thể** được dùng đ
 tượng có thể **nhận thức trực tiếp**.
 
 -   **Bì thư và túi sô-cô-la** có thể tách thành hai vật riêng biệt, nên
-    > là **khác chất thể**.
+    là **khác chất thể**.
 
 -   **Con chó và con ngựa** là hai cá thể riêng biệt, nên cũng là **khác
-    > chất thể**.
+    chất thể**.
 
 Ngược lại, **con người** và **hữu tình** không thể tách thành hai phần
 riêng:
@@ -123,7 +123,7 @@ riêng:
 -   Không thể tìm thấy một phần là con người và một phần là hữu tình.
 
 -   Thuộc tính con người và thuộc tính hữu tình cùng hiện hữu nơi một cá
-    > thể.
+    thể.
 
 -   Vì không thể tách rời nên được gọi là **một chất thể**.
 
@@ -170,16 +170,16 @@ Khi nói về **âm thanh** được phát ra**,** ngôn từ và nội dung đ�
 đạt cũng có thể xét theo **Một và Khác**. Ví dụ:
 
 -   **ཀ་བ་** - *ka wa* là trụ cột, còn **བུམ་པ་ -** *bum pa* là cái
-    > bình; vì diễn đạt hai nội dung khác nhau nên chúng là **Khác**.
-    > Tuy nhiên, *ka wa* gồm hai âm tiết *ka* và *wa* nhưng chỉ diễn đạt
-    > một nội dung là **cây cột**. Trong tư duy, nội dung đó chỉ hiển
-    > hiện là **Một**, không có hai nghĩa riêng biệt tương ứng với hai
-    > âm tiết.
+    bình; vì diễn đạt hai nội dung khác nhau nên chúng là **Khác**.
+    Tuy nhiên, *ka wa* gồm hai âm tiết *ka* và *wa* nhưng chỉ diễn đạt
+    một nội dung là **cây cột**. Trong tư duy, nội dung đó chỉ hiển
+    hiện là **Một**, không có hai nghĩa riêng biệt tương ứng với hai
+    âm tiết.
 
 -   ཁྱེད་རང་མི་ཡིན་པ། - *khyed rang mi yin pa* (bạn là con người), trong
-    > đó từ *khyed rang* có **hai âm tiết** nhưng nội dung chỉ **một đối
-    > tượng** là "bạn". Khi âm thanh trên được phát ra nhưng ý nghĩa
-    > hiện lên trong tư duy chỉ là một con người.
+    đó từ *khyed rang* có **hai âm tiết** nhưng nội dung chỉ **một đối
+    tượng** là "bạn". Khi âm thanh trên được phát ra nhưng ý nghĩa
+    hiện lên trong tư duy chỉ là một con người.
 
 **Được làm ra** (བྱས་པ་ - *byas pa*) và **vô thường** (མི་རྟག་པ་ - *mi
 rtag pa*) là **một.**
@@ -189,7 +189,7 @@ rtag pa*) là **một.**
 -   Pháp nào **vô thường** thì nhất định là **được làm ra**.
 
 -   **Không thể tách** cái được làm ra và tính vô thường thành hai vật
-    > riêng như cái bình và cái cột.
+    riêng như cái bình và cái cột.
 
 Tuy nhiên, nhận biết một pháp **được làm ra** không nhất thiết nhận biết
 đầy đủ **tính vô thường**, vì vô thường khó nhận biết hơn. Ngay cả khi
@@ -199,7 +199,7 @@ trọn vẹn về vô thường.
 Trong tư duy phân biệt:
 
 -   **Nếu hai đối tượng hiện ra khác biệt** và có thể phân chia rõ ràng
-    > thì gọi là **Khác**.
+    thì gọi là **Khác**.
 
 -   **Nếu không thể tách thành hai** thì gọi là **Một**.
 
@@ -210,10 +210,10 @@ Trong luận giải **Căn Bản Trung Quán Luận** của ngài Long Thọ, m�
 phẩm của ngài Tsongkhapa:
 
 -   Những pháp **trình hiện trực tiếp** mà **không có sự khác biệt** thì
-    > đó là **một**.
+    đó là **một**.
 
 -   Những pháp **trình hiện trực tiếp** có **sự khác biệt** và có thể
-    > tách thành hai thì đó là **khác**.
+    tách thành hai thì đó là **khác**.
 
 ## 4. Các khái niệm về chất thể và thành trụ 
 
@@ -298,11 +298,11 @@ chất thể của chúng riêng biệt.
 **Một chất thể** khác với **một loại chất thể**:
 
 -   **Một chất thể:** Khi trình hiện trực tiếp, đối tượng hiện ra không
-    > có sự riêng biệt mà hiện thành một
+    có sự riêng biệt mà hiện thành một
 
 -   **Một loại chất thể:** Hữu vi pháp khác biệt được sinh ra từ một
-    > nhân chính của nó. Chất thể cùng loại hay khác loại tùy thuộc vào
-    > nhân chính hoặc dòng chất thể lưu chuyển tương tục trước đó.
+    nhân chính của nó. Chất thể cùng loại hay khác loại tùy thuộc vào
+    nhân chính hoặc dòng chất thể lưu chuyển tương tục trước đó.
 
 Ví dụ, khi gieo **một hạt giống**, từ đó có thể cho ra **nhiều quả**,
 giống như một người mẹ sinh ra nhiều người con. **Một** **hạt táo** có

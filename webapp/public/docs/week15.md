@@ -31,25 +31,25 @@ bốn hoặc tám loại** (**trang 225**):
     tưởng.**
 
 -   **(1)-(2)-(3)** Ba loại đầu đều là pháp **chân như**, nhưng được gọi
-    > khác nhau theo pháp làm nền tảng: thiện, bất thiện hoặc vô ký.
-    > Chẳng hạn, tính không của cái bình và tính không của cây cột không
-    > khác nhau về bản tính; sự khác nhau nằm ở pháp nền tảng là cái
-    > bình hay cây cột. Do đó, ba loại chân như cũng có thể gom thành
-    > một.
+    khác nhau theo pháp làm nền tảng: thiện, bất thiện hoặc vô ký.
+    Chẳng hạn, tính không của cái bình và tính không của cây cột không
+    khác nhau về bản tính; sự khác nhau nằm ở pháp nền tảng là cái
+    bình hay cây cột. Do đó, ba loại chân như cũng có thể gom thành
+    một.
 
 -   **(4) -** (**5) - (6)** tương ứng với ba pháp vô vi của Tỳ-bà-sa bộ.
 
 -   **(7) Bất động** được giải thích trong mối liên quan đến các tầng
-    > thiền như **Sơ thiền, Nhị thiền và Tam thiền**. Một vị đạt tầng
-    > thiền thứ nhất đã loại trừ **xúc thuộc Dục giới** và đạt **xúc của
-    > thiền thế gian**, khác với xúc của chư thiên Dục giới. Sau đó,
-    > tiếp tục tiến lên tầng thiền cao hơn để diệt trừ **thọ và tưởng**,
-    > từ đó đạt trạng thái **bất động**.
+    thiền như **Sơ thiền, Nhị thiền và Tam thiền**. Một vị đạt tầng
+    thiền thứ nhất đã loại trừ **xúc thuộc Dục giới** và đạt **xúc của
+    thiền thế gian**, khác với xúc của chư thiên Dục giới. Sau đó,
+    tiếp tục tiến lên tầng thiền cao hơn để diệt trừ **thọ và tưởng**,
+    từ đó đạt trạng thái **bất động**.
 
 -   **(8) Diệt thọ tưởng** thuộc về trạng thái diệt tận định, trong đó
-    > **thọ và tưởng không sinh khởi**. Trạng thái này tương tự như pháp
-    > vô vi vì có tính thường hằng, do đó Diệt thọ tưởng cũng được xếp
-    > vào pháp vô vi.
+    **thọ và tưởng không sinh khởi**. Trạng thái này tương tự như pháp
+    vô vi vì có tính thường hằng, do đó Diệt thọ tưởng cũng được xếp
+    vào pháp vô vi.
 
 ## 2. Những luận thuật liên quan đến sở lượng 
 

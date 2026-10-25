@@ -103,15 +103,15 @@ tính ngừng nghỉ, tính hồi phục."* (**trang 180**)
 -   Tính chết không thuộc sự xúc chạm nhưng liên quan tới **sinh mạng**.
 
 -   Sinh mạng được nắm giữ bởi **khí và hơi ấm**. Khi sắp chết, tính
-    > chết làm cho thân suy giảm, năng lực của thân yếu dần. Khi thức
-    > không thể trụ trong thân nữa, thân không còn giữ được thức thì
-    > **thức và thân phân ly**, dẫn tới cái chết.
+    chết làm cho thân suy giảm, năng lực của thân yếu dần. Khi thức
+    không thể trụ trong thân nữa, thân không còn giữ được thức thì
+    **thức và thân phân ly**, dẫn tới cái chết.
 
 -   Trong trạng thái sắp chết, tính chết làm cho thân có cảm xúc rất khó
-    > chịu. Do **bốn đại chủng đất, nước, gió, lửa** **gom lại** với
-    > nhau nên thân cảm thấy bức rức và khó chịu. Khi **đất bắt đầu hòa
-    > tan**, cảm giác **sợ hãi** xuất hiện, giống như **một ngọn núi đổ
-    > xuống**.
+    chịu. Do **bốn đại chủng đất, nước, gió, lửa** **gom lại** với
+    nhau nên thân cảm thấy bức rức và khó chịu. Khi **đất bắt đầu hòa
+    tan**, cảm giác **sợ hãi** xuất hiện, giống như **một ngọn núi đổ
+    xuống**.
 
 Tất cả các tính này đều thuộc về sắc pháp.
 
@@ -281,20 +281,20 @@ Mặc dù là tịnh sắc căn rất vi tế, nhưng các căn vẫn được d
 dạng:
 
 -   **Cực vi của mắt căn:** Nằm ở bên trong đồng tử của con mắt, có hình
-    > dáng tựa như một **hoa thìa là** (giống như phần chóp nhọn của
-    > chiếc áo choàng mùa đông của chư Tăng Tây Tạng thường để trên pháp
-    > tòa).
+    dáng tựa như một **hoa thìa là** (giống như phần chóp nhọn của
+    chiếc áo choàng mùa đông của chư Tăng Tây Tạng thường để trên pháp
+    tòa).
 
 -   **Cực vi của tai căn:** Nằm bên trong tai, có hình dáng giống như
-    > **nút xoắn của cây phong.** Khi lột vỏ cây phong, phần vỏ bị xoắn
-    > lại tạo thành hình dạng giống nút thắt.
+    **nút xoắn của cây phong.** Khi lột vỏ cây phong, phần vỏ bị xoắn
+    lại tạo thành hình dạng giống nút thắt.
 
 -   **Cực vi của mũi căn:** Nằm ở phía sau xoang mũi (gồm hai lỗ mũi),
-    > có hình dạng giống như **chiếc thìa kim loại nhỏ** dùng để bôi
-    > thuốc mắt (loại thìa nhỏ thường dùng trong lễ truyền quán đảnh).
+    có hình dạng giống như **chiếc thìa kim loại nhỏ** dùng để bôi
+    thuốc mắt (loại thìa nhỏ thường dùng trong lễ truyền quán đảnh).
 
 -   **Cực vi của lưỡi căn:** Có hình dạng **bán nguyệt**, có một điểm
-    > nhỏ chỉ bằng đầu sợi tóc, không bị cực vi của căn lưỡi trùm lên.
+    nhỏ chỉ bằng đầu sợi tóc, không bị cực vi của căn lưỡi trùm lên.
 
 -   **Cực vi của thân căn:** Tựa như một **lớp da trải khắp cơ thể**.
 

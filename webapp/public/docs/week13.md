@@ -82,7 +82,7 @@ Nhiều loại **hoa và thảo dược** được tập hợp để tạo thàn
 thuốc:
 
 -   Mỗi loại thảo dược có một **năng lực nhất định**, cùng góp phần tạo
-    > nên **công năng điều trị bệnh** của thuốc.
+    nên **công năng điều trị bệnh** của thuốc.
 
 -   Dạng năng lực ấy được gọi là **bất tương ưng hành**.
 
@@ -95,15 +95,15 @@ tạo nên **thành quả** và làm thay đổi **dòng tâm thức**.
 Ví dụ như:
 
 -   Nếu mỗi ngày học năm phút hoặc học thuộc một trang, sau một thời
-    > gian chúng ta có thể học thuộc cả một **bài kinh** hoặc một
-    > **quyển sách**.
+    gian chúng ta có thể học thuộc cả một **bài kinh** hoặc một
+    **quyển sách**.
 
 -   Khi **luyện tâm từng ngày**, mỗi sự cố gắng đều góp phần tạo nên
-    > **sự thành tựu** sau này.
+    **sự thành tựu** sau này.
 
 -   **Năng lực** được **tích lũy từng ngày** này không thể nhìn thấy
-    > trực tiếp nhưng có thể nhận biết thông qua **thành quả**. Dạng
-    > năng lực ấy được gọi là **pháp bất tương ưng hành**.
+    trực tiếp nhưng có thể nhận biết thông qua **thành quả**. Dạng
+    năng lực ấy được gọi là **pháp bất tương ưng hành**.
 
 ## 2.3. Ví dụ về sinh, trụ, dị, diệt  
 
@@ -125,8 +125,8 @@ Tương tự, đối với cái bình:
 -   Bản thân **cái bình:** thuộc về **sắc pháp**.
 
 -   **Sự sinh của cái bình:** chỉ là một **thuộc tính** của nó, **không
-    > thuộc** **sắc pháp** cũng **không thuộc** **tâm pháp**. Vì vậy, sự
-    > sinh ấy thuộc về **pháp bất tương ưng hành**.
+    thuộc** **sắc pháp** cũng **không thuộc** **tâm pháp**. Vì vậy, sự
+    sinh ấy thuộc về **pháp bất tương ưng hành**.
 
 ## 3. Khái niệm "Chất thể" theo quan điểm của các trường phái  
 
@@ -182,7 +182,7 @@ Theo **Trung Quán tông**:
 -   Không có pháp nào tồn tại bằng **tự tính của chính nó**.
 
 -   Vì vậy, tất cả các pháp đều **không có chất thể** theo nghĩa tự
-    > tính.
+    tính.
 
 Nếu một pháp **có chất thể** theo nghĩa này thì pháp ấy phải **tồn tại
 có tự tính**. Khái niệm này đôi khi được dịch là **"thật pháp"**, đối

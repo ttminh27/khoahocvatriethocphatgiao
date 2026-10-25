@@ -112,17 +112,17 @@ xét những gì đã xảy ra **1.000 năm trước**, chúng ta có thể đ�
 câu hỏi:
 
 -   Những **hành động** khi ấy có thể làm nhân cho **thân vật lý hiện
-    > tại** hay không?
+    tại** hay không?
 
 -   **Thời tiết ở Dharamsala** khi ấy có thể làm **nhân cho thời tiết
-    > hiện tại (đang mưa và rất khó khăn)** hay không?
+    hiện tại (đang mưa và rất khó khăn)** hay không?
 
 -   Trong cùng **dòng tương tục của tâm thức**, những **thiện tâm đã
-    > tích lũy** có thể làm nhân cho tâm xấu hay tâm phiền não hiện tại
-    > hay không?
+    tích lũy** có thể làm nhân cho tâm xấu hay tâm phiền não hiện tại
+    hay không?
 
 -   Ngược lại, những **tâm bất thiện** trong **quá khứ** có thể làm nhân
-    > cho **tâm thiện lương hiện tại** hay không?
+    cho **tâm thiện lương hiện tại** hay không?
 
 **Ví dụ về nước và sự nảy mầm của hạt giống**
 
@@ -132,16 +132,16 @@ thửa ruộng. Khi nào nước mới làm nhân cho hạt giống trong một 
 ruộng?
 
 -   **Nước để nguyên trong thau**, không được dùng để tưới ruộng, thì
-    > chưa làm nhân hỗ trợ hạt giống trong thửa ruộng ấy nảy mầm.
+    chưa làm nhân hỗ trợ hạt giống trong thửa ruộng ấy nảy mầm.
 
 -   **Nước được đem tưới vào ruộng**, trực tiếp tác động đến sự nảy mầm,
-    > lúc ấy mới làm nhân hỗ trợ cho hạt giống.
+    lúc ấy mới làm nhân hỗ trợ cho hạt giống.
 
 -   Nếu **lượng nước quá ít**, hạt giống hoặc mầm cây sẽ không phát
-    > triển đầy đủ.
+    triển đầy đủ.
 
 -   Vì vậy, cần có **lượng nước thích hợp** để hạt giống nảy mầm và phát
-    > triển.
+    triển.
 
 Còn **từng bước chân** khi **bưng thau nước đến thửa ruộng** có được gọi
 là nhân hay không là vấn đề phức tạp, cần phân tích dựa trên **quả cụ
@@ -164,10 +164,10 @@ nhiều cách khác nhau:
 -   **Cảnh:** hình sắc làm đối tượng nhận biết.
 
 -   **Giác quan:** của mắt phải tốt có thể thấy được để nhận biết hình
-    > sắc.
+    sắc.
 
 -   **Tăng thượng duyên:** là điều kiện làm môi giới kết nối giác quan
-    > với ý thức, nhờ đó nhận thức của mắt phát khởi.
+    với ý thức, nhờ đó nhận thức của mắt phát khởi.
 
 -   **Trụ nhân:** là nhân giúp **duy trì sự tồn tại**. Ví dụ, **bốn loại
     thức ăn** (đoàn thực, xúc thực, tư thực và thức thực) nuôi dưỡng
@@ -334,10 +334,10 @@ chướng ngại, không ngăn cản** và **không thể xúc chạm**. Để h
 chạm và ngăn cản, có thể xét hai ví dụ:
 
 -   **Xúc chạm:** khi chạm vào miếng vải, chúng ta cảm nhận được tính
-    > chất trơn hoặc nhám.
+    chất trơn hoặc nhám.
 
 -   **Ngăn cản:** khi hai bàn tay chạm vào nhau, bàn tay này không thể
-    > vượt qua bàn tay kia.
+    vượt qua bàn tay kia.
 
 Theo *A-tỳ-đạt-ma Câu-xá luận*, pháp vô vi có **ba loại**: **(1) Hư
 không vô vi**, **(2) Trạch diệt vô vi**, **(3) Phi trạch diệt vô vi**
@@ -383,11 +383,11 @@ mà diệt do tạm thời thiếu điều kiện cho sân hận hiện khởi.
 Phi trạch diệt được giải thích qua hai bậc **Nhẫn** và **Thế đệ nhất**:
 
 -   **Ở bậc Nhẫn:** hành giả không còn sinh vào ác đạo. Tuy vẫn còn hạt
-    > giống phiền não, nhưng vì thiếu duyên nên tâm sân hận không sinh
-    > khởi.
+    giống phiền não, nhưng vì thiếu duyên nên tâm sân hận không sinh
+    khởi.
 
 -   **Ở bậc Thế đệ nhất:** các pháp phiền não cũng không sinh khởi do
-    > thiếu điều kiện.
+    thiếu điều kiện.
 
 Đây là sự **tạm ngưng sinh khởi do thiếu duyên**, chưa phải sự đoạn tận
 gốc rễ phiền não nhờ năng lực của con đường tu tập. Trong trường hợp

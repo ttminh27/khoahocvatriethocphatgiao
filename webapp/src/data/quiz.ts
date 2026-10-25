@@ -2083,133 +2083,393 @@ export const quizzes: Record<string, QuizQuestion[]> = {
   "week16": [
       {
           "id": "w16_1",
-          "text": "Chủ đề 'Một và Khác' (Ekatva và Nānātva) trong lý luận học Phật giáo đóng vai trò gì?",
+          "text": "Theo quan điểm của các nhà luận lý học Phật giáo trong bài, trường hợp nào được gọi là Một?",
           "options": [
-              "Là công cụ sắc bén để phân tích cấu trúc vạn pháp, làm nền tảng soi sáng Vô thường và Tính không",
-              "Chỉ là trò chơi đố chữ",
-              "Một bài tập đếm số học tiểu học",
-              "Một câu chuyện dân gian"
+              "Hai pháp không hiện ra riêng biệt và không thể phân chia ra được.",
+              "Hai pháp có tên gọi khác nhau nhưng cùng được nhận biết trong một lúc.",
+              "Hai pháp hiện ra riêng biệt và có thể phân chia rõ ràng trong tư duy.",
+              "Hai pháp cùng sinh, trụ và diệt nhưng có chất thể hoàn toàn riêng biệt."
           ],
           "correctAnswerIndex": 0,
-          "explanation": "Khái niệm 'Một' và 'Khác' là trục lý luận cốt lõi mà ngài Long Thọ, Trần Na và Pháp Xứng sử dụng để phá tan ngã chấp và pháp chấp.",
-          "hint": "Công cụ phân tích cấu trúc vạn pháp soi sáng tính không."
+          "explanation": "Theo quan điểm của các nhà luận lý học Phật giáo, nếu hai pháp không hiện ra riêng biệt và không thể phân chia ra được thì gọi là Một. Việc cùng tên, cùng thời gian hoặc cùng một chất thể chưa tự nó quyết định quan hệ Một. Tiêu chí chính là cách các pháp hiển hiện trong âm thanh, nội dung được diễn đạt và tư duy phân biệt. [Ghi nhớ: Một là không hiện ra riêng biệt và không thể phân chia trong tư duy phân biệt.]",
+          "hint": "Hãy xét hai pháp có hiển hiện thành hai nội dung riêng trong tư duy phân biệt hay không."
       },
       {
           "id": "w16_2",
-          "text": "Theo định nghĩa của Lượng luận, hai pháp được gọi là 'Một' khi nào?",
+          "text": "Theo bài học, dấu hiệu nào xác định hai pháp là Khác?",
           "options": [
-              "Khi chúng hoàn toàn không thể phân chia và cùng một bản thể (đồng thể đồng nhất)",
-              "Khi chúng có cùng màu sắc",
-              "Khi chúng nằm gần nhau",
-              "Khi ta thích cả hai"
+              "Chúng cùng thuộc pháp hữu vi và đều có thể được nhận thức trực tiếp một cách rõ ràng.",
+              "Chúng không thể tách thành hai vật dù có hai tên gọi riêng.",
+              "Chúng hiện ra riêng biệt và có thể phân chia ra được trong tư duy.",
+              "Chúng cùng hình thành, tồn tại và hoại diệt trong một thời gian."
           ],
-          "correctAnswerIndex": 0,
-          "explanation": "Hai pháp là Một nếu chúng không thể tách rời về mặt bản thể thực hữu, loại trừ sự dị biệt.",
-          "hint": "Cùng một bản thể đồng nhất bất khả phân."
+          "correctAnswerIndex": 2,
+          "explanation": "Hai pháp được gọi là Khác khi chúng hiện ra riêng biệt và có thể phân chia ra được trong tư duy phân biệt. Cùng là pháp hữu vi, cùng thời gian tồn tại hoặc có hai tên gọi chưa đủ để kết luận. Bài nhấn mạnh cách trình hiện trước nhận thức, vì vậy có trường hợp cùng một chất thể nhưng vẫn được phân biệt là Khác. [Ghi nhớ: Khác là hiện ra riêng biệt và có thể phân chia rõ ràng trong tư duy phân biệt.]",
+          "hint": "Đối chiếu trực tiếp với tiêu chí hiển hiện riêng biệt được nêu ở phần đầu của bài."
       },
       {
           "id": "w16_3",
-          "text": "Hai pháp được gọi là 'Khác' khi nào?",
+          "text": "Cách phân loại nào đúng theo hai ví dụ về tên chị Hải và bì thư với túi sô-cô-la?",
           "options": [
-              "Khi chúng có sự phân biệt, chia lìa hoặc không cùng tồn tại trong cùng một tự thể",
-              "Khi một cái màu trắng một cái màu đỏ",
-              "Khi một cái ở Việt Nam một cái ở Tây Tạng",
-              "Khi chúng ta không thích một trong hai"
+              "Cả hai trường hợp đều là Một vì đều có thể được gọi bằng ngôn từ.",
+              "Tên chị Hải là Một; bì thư và túi sô-cô-la là Khác.",
+              "Tên chị Hải là Khác; bì thư và túi sô-cô-la là Một.",
+              "Cả hai trường hợp đều là Khác vì đều có nhiều âm tiết được phát ra."
           ],
-          "correctAnswerIndex": 0,
-          "explanation": "Khác nghĩa là có tướng trạng dị biệt, có thể tách rời hoặc phủ định lẫn nhau về mặt nhận thức.",
-          "hint": "Có sự phân biệt và dị tính."
+          "correctAnswerIndex": 1,
+          "explanation": "Khi gọi tên chị Hải, trong tư duy phân biệt chỉ hiển hiện duy nhất người mang tên đó, nên được gọi là Một. Bì thư và túi sô-cô-la lại hiện ra như hai đối tượng riêng biệt, có thể phân chia, nên là Khác. Số từ hoặc số âm tiết không phải tiêu chí quyết định trong hai ví dụ này. [Ghi nhớ: Tên chị Hải hiển hiện một người; bì thư và túi sô-cô-la hiển hiện hai vật.]",
+          "hint": "So sánh số nội dung hiển hiện khi gọi một người với số vật hiển hiện trong ví dụ còn lại."
       },
       {
           "id": "w16_4",
-          "text": "Trong bài học, ví dụ về 'Chiếc bình vàng' và 'Chất vàng tạo nên chiếc bình' thể hiện mối quan hệ Một hay Khác?",
+          "text": "Cặp nào được bài học xác định là một chất thể?",
           "options": [
-              "Về phương diện bản thể vật chất thì là một (đồng chất thể), nhưng về phương diện khái niệm và chức năng nhận thức thì là khác",
-              "Hoàn toàn là một trên mọi phương diện",
-              "Hoàn toàn là hai vật thể xa lạ",
-              "Không có mối liên hệ nào"
+              "Bì thư và túi sô-cô-la vì đều là những vật có thể nhìn thấy.",
+              "Con chó và con ngựa vì cả hai đều thuộc về loài vật.",
+              "Hạt lúa và mầm lúa vì mầm lúa được sinh ra từ hạt lúa.",
+              "Con người và hữu tình vì không thể tách thành hai phần riêng."
           ],
-          "correctAnswerIndex": 0,
-          "explanation": "Bình vàng và vàng có cùng chất thể (bản thể là một), nhưng khái niệm 'bình' (chứa nước) khác khái niệm 'vàng' (kim loại quý).",
-          "hint": "Một về bản thể nhưng khác về mặt khái niệm chức năng."
+          "correctAnswerIndex": 3,
+          "explanation": "Thuộc tính con người và thuộc tính hữu tình cùng hiện hữu nơi một cá thể; không thể tìm một phần là con người và một phần khác là hữu tình, nên chúng là một chất thể. Bì thư với túi sô-cô-la và con chó với con ngựa là các vật riêng. Hạt lúa với mầm lúa chỉ thuộc một loại chất thể. [Ghi nhớ: Con người và hữu tình không thể tách rời nên được gọi là một chất thể.]",
+          "hint": "Hãy tìm cặp có hai thuộc tính cùng hiện hữu nơi một cá thể và không thể tách rời."
       },
       {
           "id": "w16_5",
-          "text": "Quan hệ giữa 'Hạt giống' và 'Cây mầm' là quan hệ Một hay Khác trong dòng thời gian?",
+          "text": "Cách dùng “một chất thể” và “một bản thể” nào đúng theo bài?",
           "options": [
-              "Là Khác (dị thời dị thể): khi hạt giống diệt thì mầm cây mới sinh ra, nhân và quả không thể tồn tại đồng thời là Một",
-              "Là Một, hạt giống chính là mầm cây",
-              "Không cái nào có thật",
-              "Là Một vì cùng màu xanh"
+              "Một chất thể dùng với pháp vô vi hoặc khái niệm trừu tượng; một bản thể chỉ dùng với vật chất hữu vi.",
+              "Một chất thể dùng với pháp hữu vi; một bản thể dùng với pháp vô vi hoặc khái niệm trừu tượng.",
+              "Hai thuật ngữ hoàn toàn đồng nghĩa và có thể thay thế trong mọi trường hợp.",
+              "Một chất thể dùng cho âm thanh; một bản thể dùng riêng cho tư duy phân biệt."
           ],
-          "correctAnswerIndex": 0,
-          "explanation": "Hạt giống và mầm cây nối tiếp nhau trong chuỗi tương tục nhưng chúng là hai thực thể khác nhau ở hai thời điểm sát-na khác nhau.",
-          "hint": "Nhân và quả khác nhau trong dòng thời gian."
+          "correctAnswerIndex": 1,
+          "explanation": "Bài dùng “một chất thể” đối với pháp hữu vi và những đối tượng vật chất; “một bản thể” dùng đối với pháp vô vi hoặc các khái niệm trừu tượng. Vì phạm vi khác nhau, hai thuật ngữ không thể tùy ý thay thế. Chẳng hạn, không thể nói hư không là một chất thể hay khác chất thể. [Ghi nhớ: Chất thể dùng cho pháp hữu vi; bản thể dùng cho pháp vô vi hoặc trừu tượng.]",
+          "hint": "Đặt pháp hữu vi, vật chất ở một phía và pháp vô vi, trừu tượng ở phía kia."
       },
       {
           "id": "w16_6",
-          "text": "Nếu cho rằng 'Hạt giống và Mầm cây là Một', sai lầm logic nào sẽ xảy ra?",
+          "text": "Vì sao bình vàng và chất vàng của bình được phân biệt là Khác dù không phải hai chất tách rời?",
           "options": [
-              "Lúc đang ăn hạt giống tức là đang ăn cả cây mầm, và nhân quả trở nên hỗn loạn không có sinh diệt",
-              "Hạt giống sẽ nở ra hoa sen",
-              "Không có sai lầm nào",
-              "Cây sẽ mọc nhanh hơn"
+              "Vì cái bình được nhận biết trước, chất vàng được nhận biết sau và có hai sự hiển hiện.",
+              "Vì chất vàng chỉ xuất hiện sau khi cái bình đã hoàn toàn hoại diệt.",
+              "Vì bình vàng là pháp thường hằng còn chất vàng là pháp vô thường.",
+              "Vì mọi vật có hai tên gọi đều nhất định là hai chất thể riêng biệt trong tư duy phân biệt."
           ],
           "correctAnswerIndex": 0,
-          "explanation": "Nếu nhân quả là Một thì hạt không cần diệt mà cây vẫn có, dẫn tới việc nhân và quả đồng thời tồn tại – điều hoàn toàn trái thực tế.",
-          "hint": "Nhân quả đồng nhất làm sụp đổ luật sinh diệt sát-na."
+          "explanation": "Ta có thể nhận biết cái bình trước mà chưa biết nó làm bằng vàng; sau đó mới nhận ra chất liệu là vàng. Do có hai sự hiển hiện khác nhau trong tư duy phân biệt, bình vàng và chất vàng là Khác, dù không phải hai chất tách rời. Ví dụ này cho thấy cùng một chất thể không nhất thiết là Một. [Ghi nhớ: Bình vàng và chất vàng là Khác do hai sự hiển hiện, dù không tách thành hai chất.]",
+          "hint": "Hãy chú ý thứ tự nhận biết cái bình và chất liệu của bình trong tư duy phân biệt."
       },
       {
           "id": "w16_7",
-          "text": "Một người có 3 tên gọi: tên khai sinh, bút danh và biệt danh. Ba tên gọi này đối với người đó là Một hay Khác?",
+          "text": "Qua tiến trình nhận diện Sư Cô từ xa, kết luận nào phù hợp nhất với bài?",
           "options": [
-              "Về người được chỉ định (thực thể) thì là Một người; về danh từ và bối cảnh sử dụng thì là Khác nhau",
-              "Là ba con người khác nhau",
-              "Không có ai tồn tại",
-              "Chỉ có một tên là thật hai tên kia giả"
+              "Mỗi mức nhận diện chỉ một cá thể khác, nên các mức đều khác chất thể.",
+              "Chỉ hữu tình và con người là một chất thể; các mức nhận diện còn lại không liên hệ theo khoảng cách.",
+              "Mọi mức nhận diện đều là Một vì cuối cùng cùng biết tên Tenzin Yangchen.",
+              "Hữu tình, con người, Sư Cô và Tenzin Yangchen cùng một chất thể nhưng hiện ra riêng trong tư duy."
           ],
-          "correctAnswerIndex": 0,
-          "explanation": "Một thực thể duy nhất có thể được quy gán nhiều danh xưng khác nhau tùy thuộc vào góc nhìn và mối quan hệ xã hội.",
-          "hint": "Một chủ thể quy chiếu nhiều tên gọi quy ước."
+          "correctAnswerIndex": 3,
+          "explanation": "Hữu tình, con người, Sư Cô, người Việt Nam và Tenzin Yangchen cùng chỉ một người, không thể tách thành nhiều cá thể, nên cùng một chất thể. Tuy nhiên, từng cách nhận diện xuất hiện riêng biệt theo khoảng cách và mức độ quan sát. Vì vậy, cùng một chất thể không nhất thiết là Một trong nhận thức. [Ghi nhớ: Nhiều mức nhận diện Sư Cô cùng một chất thể nhưng hiện ra riêng trong tư duy.]",
+          "hint": "Một người không biến thành nhiều cá thể, nhưng các nội dung nhận diện có xuất hiện cùng lúc hay không?"
       },
       {
           "id": "w16_8",
-          "text": "Khái niệm 'Chất pháp' (Dravya-dharma) và 'Phản pháp' (Vyāvṛtti-dharma) liên quan thế nào đến Một và Khác?",
+          "text": "Vì sao cá thể và cơ thể không được xem là Một trong tư duy khái niệm?",
           "options": [
-              "Chất pháp là thực thể vật chất cụ thể; Phản pháp là khía cạnh nhận thức thông qua sự bài trừ đối tượng trái nghịch",
-              "Là hai phương thuốc Đông y",
-              "Là hai loại pháp luật",
-              "Không có mối liên quan"
+              "Vì cá thể luôn là pháp vô vi còn cơ thể luôn là pháp thường hằng.",
+              "Vì cá thể và cơ thể là hai người hoàn toàn không liên quan với nhau.",
+              "Vì “tôi” là chủ thể, còn “cái của tôi” hiện ra như những gì thuộc về chủ thể.",
+              "Vì cơ thể không bao gồm tay, chân hoặc bất kỳ bộ phận nào thuộc về cá thể đó."
           ],
-          "correctAnswerIndex": 0,
-          "explanation": "Chất pháp chỉ sự vật cụ thể; Phản pháp (Apoha) là cơ chế tư duy của tâm thức nhận diện sự vật bằng cách loại trừ cái không phải nó.",
-          "hint": "Thực thể cụ thể và cơ chế bài trừ của nhận thức."
+          "correctAnswerIndex": 2,
+          "explanation": "Cá thể hay Bổ-đặc-già-la là chủ thể, tương ứng với “tôi”; cơ thể, tay chân và các bộ phận thuộc về chủ thể là “cái của tôi”. Trong tư duy khái niệm, hai nội dung ấy hiện ra khác nhau nên không phải là Một. Bài không nói cá thể là pháp vô vi hoặc cơ thể tách thành một người khác. [Ghi nhớ: “Tôi” là chủ thể; cơ thể là “cái của tôi”, nên hai nội dung hiện ra khác nhau.]",
+          "hint": "Hãy phân biệt chủ thể với những bộ phận được nhận là thuộc về chủ thể ấy."
       },
       {
           "id": "w16_9",
-          "text": "Ứng dụng quan sát 'Một và Khác' vào việc quán sát 'Cái Tôi' (Ngã) và 'Năm Uẩn' (Thân tâm) mang lại kết quả tu tuệ gì?",
+          "text": "Cách phân loại nào đúng đối với ka wa và bum pa trong phần âm thanh?",
           "options": [
-              "Nếu Cái Tôi là Một với 5 uẩn thì Tôi phải sinh diệt như 5 uẩn; nếu Tôi Khác 5 uẩn thì tìm ngoài thân tâm không thấy Tôi đâu -> Chứng ngộ Vô ngã",
-              "Tìm thấy linh hồn bất tử nằm ở tim",
-              "Thấy mình trở thành thần thánh",
-              "Quên hết mọi ký ức"
+              "Ka wa có hai âm tiết nhưng một nội dung; ka wa và bum pa diễn đạt hai nội dung khác nhau.",
+              "Ka wa luôn diễn đạt hai cây cột; bum pa chỉ là âm thanh không mang nội dung.",
+              "Ka wa và bum pa là Một vì cả hai đều được phát ra bằng âm thanh.",
+              "Ka wa là Khác chỉ vì có hai âm tiết, còn bum pa là Một vì chỉ có một nghĩa."
           ],
           "correctAnswerIndex": 0,
-          "explanation": "Đây là pháp quán Thất tướng hoặc Ngũ tướng tìm ngã kinh điển của Trung Quán: 'Tôi' không thể là Một với thân tâm, cũng chẳng Khác thân tâm, nên 'Tôi' hoàn toàn là giả danh không tự tánh.",
-          "hint": "Lý luận phá chấp ngã kinh điển của Trung Quán tông."
+          "explanation": "Ka wa gồm hai âm tiết ka và wa nhưng chỉ diễn đạt một nội dung là trụ cột, nên nội dung hiển hiện là Một. Ka wa và bum pa lần lượt diễn đạt trụ cột và cái bình, tức hai nội dung khác nhau, nên là Khác. Số âm tiết tự nó không quyết định quan hệ Một hay Khác. [Ghi nhớ: Âm tiết có thể nhiều nhưng nội dung vẫn Một; nội dung khác nhau thì là Khác.]",
+          "hint": "Đừng chỉ đếm âm tiết; hãy xét số nội dung được diễn đạt bởi từng âm thanh."
       },
       {
           "id": "w16_10",
-          "text": "Sau 16 tuần học, bức tranh toàn diện về 'Khoa học Phật giáo Tập 1' mang lại cho người học bài học cốt lõi nào?",
+          "text": "Từ khyed rang có hai âm tiết nhưng nội dung chỉ một đối tượng là “bạn”. Điều này minh họa nguyên tắc nào?",
           "options": [
-              "Hiểu rõ thế giới vật chất và các hiện tượng tự nhiên bằng lăng kính duyên sinh, vô thường, logic chặt chẽ, tạo nền tảng vững chắc để tiến vào Khoa học Tâm thức",
-              "Chỉ để thi cử lấy điểm",
-              "Trở thành một triết gia tranh cãi bất bại",
-              "Tách biệt hoàn toàn với đời sống thường nhật"
+              "Hai âm tiết luôn tạo thành hai đối tượng khác chất thể trong tư duy.",
+              "Một nội dung chỉ được xác lập khi âm thanh có đúng một âm tiết.",
+              "Mọi từ chỉ người đều là một bản thể vì con người là khái niệm trừu tượng.",
+              "Số âm tiết không quyết định số đối tượng hiển hiện trong nội dung được diễn đạt."
+          ],
+          "correctAnswerIndex": 3,
+          "explanation": "Khyed rang có hai âm tiết nhưng khi âm thanh được phát ra, ý nghĩa hiện lên trong tư duy chỉ là một đối tượng: “bạn”. Vì vậy, không thể dựa đơn thuần vào số âm tiết để xác định Một hay Khác. Cần xét nội dung được diễn đạt và cách nội dung ấy hiển hiện trong tư duy phân biệt. [Ghi nhớ: Hai âm tiết khyed rang vẫn chỉ làm hiển hiện một đối tượng là “bạn”.]",
+          "hint": "So sánh cấu tạo của âm thanh với số đối tượng thực sự hiện lên trong tư duy."
+      },
+      {
+          "id": "w16_11",
+          "text": "Phát biểu nào đúng về “được làm ra” và “vô thường”?",
+          "options": [
+              "Chúng là Khác vì một pháp được làm ra vẫn có thể hoàn toàn thường hằng cho đến khi hoại diệt.",
+              "Chúng khác chất thể vì mỗi nội dung cần một đối tượng vật chất riêng biệt.",
+              "Chúng là Một, nhưng biết pháp được làm ra chưa nhất thiết là hiểu đầy đủ tính vô thường.",
+              "Chúng chỉ là Một khi người học đồng thời gọi được chính xác cả hai tên."
+          ],
+          "correctAnswerIndex": 2,
+          "explanation": "Pháp nào được làm ra thì nhất định là vô thường, và pháp nào vô thường thì nhất định là được làm ra; không thể tách chúng thành hai vật riêng nên là Một. Tuy nhiên, nhận biết một pháp được làm ra chưa nhất thiết đồng nghĩa đã nhận biết đầy đủ tính vô thường, vì vô thường là nội dung khó nhận biết hơn. [Ghi nhớ: Được làm ra và vô thường là Một, nhưng mức độ nhận biết hai nội dung có thể khác.]",
+          "hint": "Phân biệt quan hệ giữa hai pháp với mức độ nhận biết trọn vẹn của người học."
+      },
+      {
+          "id": "w16_12",
+          "text": "Cách phân loại nào đúng đối với các ví dụ về hư không?",
+          "options": [
+              "Hư không và thường hằng là một chất thể; hư không Nam Bắc cũng một chất thể và không thể phân chia.",
+              "Hư không và thường hằng là một bản thể; hư không hướng Nam và hướng Bắc khác bản thể.",
+              "Hư không và thường hằng khác chất thể; không thể xét hư không theo bản thể.",
+              "Hư không và thường hằng khác bản thể; hư không Nam Bắc là một bản thể."
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "Hư không là pháp vô vi và thường hằng, nên hư không với thường hằng là một bản thể. Hư không ở hướng Nam và hư không ở hướng Bắc lại được nêu là khác bản thể. Không thể gọi hư không là một chất thể hay khác chất thể vì khái niệm chất thể chỉ dùng đối với pháp hữu vi. [Ghi nhớ: Hư không với thường hằng một bản thể; hư không Nam và Bắc khác bản thể.]",
+          "hint": "Hư không là pháp vô vi; sau đó xét riêng hai phương hướng được nêu trong bài."
+      },
+      {
+          "id": "w16_13",
+          "text": "“Cái bình hôm nay” và “cái bình” được phân loại như thế nào?",
+          "options": [
+              "Là một chất thể mà không thể phân thành trụ vì luôn hiện hữu cùng thời gian ở mọi thời điểm của nó.",
+              "Là khác chất thể vì cụm “hôm nay” tạo ra một vật thể hoàn toàn khác.",
+              "Là một bản thể vì cả hai chỉ là những khái niệm trừu tượng trong tư duy.",
+              "Là một chất thể nhưng không phải một chất thể thành trụ vì không đồng thời sinh, diệt và trụ."
+          ],
+          "correctAnswerIndex": 3,
+          "explanation": "“Cái bình hôm nay” và “cái bình” không phải hai vật tách biệt nên là một chất thể. Tuy nhiên, phạm vi thời gian của “cái bình” rộng hơn hôm nay; chúng không đồng thời sinh, diệt và trụ. Vì thế, một chất thể không nhất định là một chất thể thành trụ, đúng như ví dụ của bài. [Ghi nhớ: Một chất thể chưa đủ thành một chất thể thành trụ; còn phải đồng thời sinh, diệt, trụ.]",
+          "hint": "Kiểm tra lần lượt điều kiện một chất thể và điều kiện đồng thời sinh, diệt, trụ."
+      },
+      {
+          "id": "w16_14",
+          "text": "Định nghĩa nào đúng về một chất thể thành trụ?",
+          "options": [
+              "Hai pháp vừa là một chất thể, vừa sinh, trụ và diệt đồng thời với nhau.",
+              "Hai pháp khác chất thể nhưng cùng thuộc một loại và phát sinh từ một nhân.",
+              "Hai pháp có cùng tên và được một người nghĩ đến trong cùng một lúc.",
+              "Hai pháp là pháp vô vi nên không trải qua hình thành, tồn tại và hoại diệt."
           ],
           "correctAnswerIndex": 0,
-          "explanation": "Tập 1 hoàn tất việc khảo sát thế giới hiện tượng vật chất theo tinh thần duyên khởi, chuẩn bị cơ sở tri thức vững vàng để bước tiếp vào Tập 2 nghiên cứu về Tâm thức.",
-          "hint": "Thấu suốt thế giới hiện tượng chuẩn bị tiến vào Khoa học Tâm thức."
+          "explanation": "Một chất thể thành trụ phải vừa là một chất thể, vừa có sự sinh, trụ và diệt đồng thời. Khi một pháp hình thành, tồn tại và hoại diệt, pháp thành trụ với nó cũng trải qua các giai đoạn ấy trong cùng thời gian. Cùng tên, cùng loại chất thể hoặc cùng được nghĩ đến không đáp ứng đầy đủ định nghĩa. [Ghi nhớ: Một chất thể thành trụ gồm một chất thể và sự sinh, trụ, diệt đồng thời.]",
+          "hint": "Định nghĩa kết hợp một điều kiện về chất thể với ba giai đoạn xảy ra cùng thời gian."
+      },
+      {
+          "id": "w16_15",
+          "text": "Trụ cột và tám hạt vi trần trong hợp thể của trụ cột minh họa quan hệ nào?",
+          "options": [
+              "Khác bản thể vì các hạt vi trần là những pháp vô vi thường hằng.",
+              "Một chất thể thành trụ vì cùng nền tảng và đồng thời sinh, trụ, diệt.",
+              "Một loại chất thể vì trụ cột sinh ra tám hạt vi trần như kết quả.",
+              "Một thành trụ nhưng nhất định không có bất kỳ quan hệ nào về chất thể."
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "Bài nêu trụ cột và tám hạt vi trần trong hợp thể của trụ cột như ví dụ về một chất thể thành trụ. Chúng thuộc cùng nền tảng chất thể và đồng thời sinh, trụ, diệt. Ví dụ này không nói trụ cột sinh ra các hạt như quan hệ nhân quả, cũng không xếp các hạt vào pháp vô vi. [Ghi nhớ: Trụ cột và tám hạt vi trần trong hợp thể là một chất thể thành trụ.]",
+          "hint": "Xét đồng thời nền tảng chất thể và thời gian hình thành, tồn tại, hoại diệt của hợp thể."
+      },
+      {
+          "id": "w16_16",
+          "text": "Mô tả nào phản ánh đầy đủ nhất một chất thể mà không thể phân thành trụ?",
+          "options": [
+              "Hai pháp cùng tên nhưng có thể hình thành và hoại diệt ở hai thời gian khác nhau, dù cùng chỉ một đối tượng.",
+              "Hai pháp cùng một loại chất thể dù mỗi pháp vẫn là một chất thể riêng biệt.",
+              "Hai pháp cùng đối tượng, thời gian và chất thể; không thể phân chia sự hình thành, tồn tại, hoại diệt.",
+              "Hai pháp được nhận biết trong cùng lúc nhưng không cần cùng đối tượng hay chất thể."
+          ],
+          "correctAnswerIndex": 2,
+          "explanation": "Một chất thể mà không thể phân thành trụ trước hết phải là một chất thể và một chất thể thành trụ; đồng thời cùng đối tượng, cùng thời gian, cùng chất thể và không thể phân chia sự hình thành, tồn tại, hoại diệt. Chỉ cùng tên, cùng loại chất thể hoặc được nhận biết cùng lúc đều thiếu các điều kiện trọng yếu. [Ghi nhớ: Không thể phân thành trụ đòi hỏi cùng đối tượng, thời gian, chất thể và không thể tách ba giai đoạn.]",
+          "hint": "Tìm phương án hội đủ đối tượng, thời gian, chất thể và tính không thể phân chia thành trụ."
+      },
+      {
+          "id": "w16_17",
+          "text": "Cái bình và tính vô thường của cái bình thuộc quan hệ nào?",
+          "options": [
+              "Một chất thể mà không thể phân thành trụ vì cùng đối tượng, thời gian và không thể tách rời.",
+              "Một loại chất thể vì tính vô thường là kết quả được sinh ra từ cái bình.",
+              "Khác chất thể vì một bên là cái bình, một bên là một đặc tính của bình.",
+              "Chỉ là một thành trụ vì chất thể của hai pháp luôn hoàn toàn riêng biệt, dù sinh, trụ, diệt cùng lúc."
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "Khi cái bình hình thành, tính vô thường của nó cũng hình thành; thời gian hình thành, tồn tại và hoại diệt của hai bên không thể tách rời. Cái bình có mặt thì tính vô thường có mặt và ngược lại. Vì cùng đối tượng, cùng thời gian, cùng chất thể, chúng là một chất thể mà không thể phân thành trụ. [Ghi nhớ: Cái bình và tính vô thường cùng đối tượng, thời gian, chất thể và không thể phân thành trụ.]",
+          "hint": "Hãy xét liệu cái bình có thể hình thành, tồn tại hoặc hoại diệt mà thiếu tính vô thường không."
+      },
+      {
+          "id": "w16_18",
+          "text": "Cái bình và hạt gió trong hợp thể của cái bình được hiểu đúng như thế nào?",
+          "options": [
+              "Chúng khác chất thể hoàn toàn và không đồng thời sinh, trụ, diệt.",
+              "Chúng là một bản thể vì hạt gió thuộc về pháp vô vi thường hằng.",
+              "Chúng là một loại chất thể vì cái bình làm nhân chính sinh ra hạt gió trong cùng dòng tương tục.",
+              "Chúng là một chất thể thành trụ nhưng không phải một chất thể mà không thể phân thành trụ."
+          ],
+          "correctAnswerIndex": 3,
+          "explanation": "Bài dùng cái bình và hạt gió để chứng minh một chất thể thành trụ không nhất định là một chất thể mà không thể phân thành trụ. Chất thể của chúng không riêng biệt và chúng thành trụ cùng nhau, nhưng nhận thức trực tiếp có thể thấy cái bình mà không nhất thiết thấy hạt gió. Vì vậy, quan hệ một chất thể mà không thể phân thành trụ chưa được xác lập. [Ghi nhớ: Bình và hạt gió thành trụ với nhau, nhưng thấy bình chưa nhất thiết thấy hạt gió.]",
+          "hint": "Phân biệt việc cùng thành trụ với yêu cầu khi thấy một phương diện phải thấy phương diện kia."
+      },
+      {
+          "id": "w16_19",
+          "text": "Tám hạt cơ bản trong hợp thể của cái bình minh họa điều gì?",
+          "options": [
+              "Một bản thể vì tám hạt không thuộc phạm vi của pháp hữu vi.",
+              "Một chất thể mà không thể phân thành trụ vì không thể nhận biết từng hạt trong bất kỳ nhận thức nào.",
+              "Một thành trụ nhưng không phải một chất thể thành trụ vì chất thể của chúng riêng biệt.",
+              "Một loại chất thể vì tất cả đều được sinh trực tiếp từ chính cái bình."
+          ],
+          "correctAnswerIndex": 2,
+          "explanation": "Tám hạt cơ bản trong hợp thể của cái bình cùng sinh, diệt và trụ đồng thời nên là một thành trụ. Tuy nhiên, chất thể của chúng riêng biệt, vì vậy không phải là một chất thể thành trụ. Ví dụ này cho thấy một thành trụ không nhất định là một chất thể thành trụ. [Ghi nhớ: Tám hạt cơ bản là một thành trụ nhưng có chất thể riêng biệt.]",
+          "hint": "Tách điều kiện đồng thời sinh, diệt, trụ khỏi điều kiện phải cùng một chất thể."
+      },
+      {
+          "id": "w16_20",
+          "text": "Ghép ba trường hợp: (i) cái bình hôm nay với cái bình; (ii) cái bình với màu sắc; (iii) cái bình với tính vô thường. Chuỗi nào đúng?",
+          "options": [
+              "(i) khác chất thể; (ii) một loại chất thể; (iii) một bản thể.",
+              "(i) một chất thể; (ii) một chất thể thành trụ; (iii) một chất thể mà không thể phân thành trụ.",
+              "(i) một loại chất thể; (ii) một chất thể không thành trụ; (iii) khác bản thể.",
+              "(i) một bản thể của pháp hữu vi; (ii) khác chất thể nhưng cùng thành trụ; (iii) một thành trụ có chất thể riêng biệt."
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "Cái bình hôm nay với cái bình là một chất thể nhưng không phải một chất thể thành trụ. Cái bình với màu sắc của bình là một chất thể thành trụ. Cái bình với tính vô thường của bình cùng đối tượng, thời gian và chất thể, không thể phân chia sự hình thành, tồn tại, hoại diệt, nên không thể phân thành trụ. [Ghi nhớ: Ba mức là một chất thể, một chất thể thành trụ và một chất thể mà không thể phân thành trụ.]",
+          "hint": "Sắp xếp ba cặp theo mức ràng buộc tăng dần từ cùng chất thể đến không thể phân chia."
+      },
+      {
+          "id": "w16_21",
+          "text": "Điểm khác nhau cốt lõi giữa một chất thể và một loại chất thể là gì?",
+          "options": [
+              "Một chất thể luôn có nhiều kết quả; một loại chất thể luôn chỉ có một đối tượng duy nhất.",
+              "Một chất thể chỉ dùng cho pháp vô vi; một loại chất thể chỉ dùng cho pháp thường hằng.",
+              "Một chất thể xét sự hiển hiện không riêng biệt; một loại chất thể xét nhân chính hoặc dòng tương tục.",
+              "Hai thuật ngữ cùng nghĩa, chỉ khác cách dịch và không tạo ra sự phân loại nào."
+          ],
+          "correctAnswerIndex": 2,
+          "explanation": "Một chất thể được xác định khi trình hiện trực tiếp không có sự riêng biệt mà hiện thành một. Một loại chất thể nói đến các hữu vi pháp khác biệt được sinh ra từ nhân chính hoặc thuộc dòng chất thể lưu chuyển tương tục trước đó. Vì vậy, cùng một loại chất thể không có nghĩa là cùng một chất thể. [Ghi nhớ: Một chất thể xét sự không riêng biệt; một loại chất thể xét nhân chính hoặc dòng tương tục.]",
+          "hint": "So sánh cách trình hiện trực tiếp với quan hệ giữa những kết quả khác biệt và nhân chính của chúng."
+      },
+      {
+          "id": "w16_22",
+          "text": "Một hạt táo có thể sinh cây và cho nhiều quả táo. Cách phân tích nào đúng?",
+          "options": [
+              "Các kết quả thuộc một loại chất thể với nhân chính, nhưng mỗi quả vẫn là một chất thể riêng biệt.",
+              "Các quả táo là Một vì đều có cùng tên và cùng hình dạng tổng quát.",
+              "Tất cả quả táo là một chất thể duy nhất vì cùng phát sinh từ một hạt.",
+              "Các quả táo khác loại chất thể với nhân vì kết quả luôn khác hoàn toàn nguyên nhân và không thuộc dòng tương tục trước đó."
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "Một hạt giống có thể làm nhân chính cho nhiều kết quả đồng loại, như một hạt táo cho cây và nhiều quả táo. Các kết quả thuộc một loại chất thể với nhân chính, nhưng không phải một chất; mỗi quả vẫn là một chất thể riêng biệt. Chung nguồn nhân không làm nhiều kết quả trở thành Một. [Ghi nhớ: Nhiều quả có thể cùng một loại chất thể với nhân, nhưng mỗi quả có chất thể riêng.]",
+          "hint": "Chung nhân chính giải thích sự đồng loại, nhưng có làm mất tính riêng của từng quả không?"
+      },
+      {
+          "id": "w16_23",
+          "text": "Quan hệ giữa hạt lúa và mầm lúa được trình bày thế nào?",
+          "options": [
+              "Chúng là một chất thể vì mầm lúa không thể hiện ra riêng trước mắt.",
+              "Chúng là một bản thể vì quan hệ nhân quả chỉ tồn tại trong tư duy phân biệt.",
+              "Chúng khác loại chất thể vì tên gọi và thời điểm xuất hiện không giống nhau.",
+              "Chúng thuộc một loại chất thể nhưng không phải một chất thể và không phải là Một."
+          ],
+          "correctAnswerIndex": 3,
+          "explanation": "Hạt lúa làm nhân chính sinh ra mầm lúa nên chúng thuộc một loại chất thể. Tuy nhiên, chúng có tên riêng biệt và mắt nhận thức thấy hiển hiện riêng biệt, vì vậy không phải là một chất thể và cũng không phải là Một. Một loại chất thể biểu thị quan hệ trong dòng tương tục, không xóa sự khác biệt giữa nhân và kết quả. [Ghi nhớ: Hạt lúa và mầm lúa cùng một loại chất thể, nhưng không phải một chất thể hay Một.]",
+          "hint": "Hãy đồng thời xét nhân chính, dòng tương tục và sự hiển hiện riêng biệt trước mắt."
+      },
+      {
+          "id": "w16_24",
+          "text": "Theo phần một pháp có nhiều phản thể, phát biểu nào đúng về thanh sô-cô-la?",
+          "options": [
+              "Mỗi phản thể là một vật chất riêng nằm bên trong thanh sô-cô-la.",
+              "Thanh sô-cô-la cùng một bản thể với các sự phủ định; vô số phản thể được nhận biết tuần tự.",
+              "Ý thức có thể nhận biết đồng thời toàn bộ vô số phản thể của thanh sô-cô-la.",
+              "Các phản thể khác bản thể với thanh sô-cô-la và không thể cùng tồn tại."
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "Về mặt bản thể, thanh sô-cô-la và các sự phủ định như không phải ngựa, không phải bò, không phải pháp thường hằng không khác bản thể với chính nó. Tuy nhiên, trên cùng một pháp có vô số phản thể khác nhau. Ý thức không thể nhận biết tất cả cùng một lúc mà phải nhận biết lần lượt theo tuần tự. [Ghi nhớ: Một pháp có vô số phản thể cùng một bản thể, nhưng ý thức nhận biết lần lượt.]",
+          "hint": "Phân biệt quan hệ bản thể với số lượng phản thể và khả năng nhận biết của ý thức."
+      },
+      {
+          "id": "w16_25",
+          "text": "Xét bốn nhận định: (1) Cùng một chất thể không nhất thiết là Một. (2) Các nội dung hiện ra riêng trong tư duy có thể cùng một chất thể. (3) Một chất thể thành trụ luôn không thể phân thành trụ. (4) Một thành trụ luôn là một chất thể thành trụ. Nhóm nào đúng?",
+          "options": [
+              "(1) và (2).",
+              "(1) và (3).",
+              "(2) và (4).",
+              "(3) và (4)."
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "Nhận diện Sư Cô cho thấy nhiều nội dung hiện ra riêng trong tư duy vẫn có thể cùng một chất thể, nên (1) và (2) đúng. Bình với hạt gió bác bỏ (3): chúng là một chất thể thành trụ nhưng không phải một chất thể mà không thể phân thành trụ. Tám hạt cơ bản bác bỏ (4): chúng là một thành trụ nhưng chất thể riêng biệt. [Ghi nhớ: Cùng một chất thể chưa chắc là Một; một thành trụ chưa chắc là một chất thể thành trụ.]",
+          "hint": "Dùng ba ví dụ: nhận diện Sư Cô, bình với hạt gió và tám hạt cơ bản."
+      },
+      {
+          "id": "w16_26",
+          "text": "Ghép lần lượt: (i) hư không và thường hằng; (ii) cái bình và hạt gió; (iii) tám hạt cơ bản trong hợp thể. Chuỗi nào đúng?",
+          "options": [
+              "(i) một chất thể; (ii) một loại chất thể; (iii) không thành trụ.",
+              "(i) khác bản thể; (ii) một chất thể mà không thể phân thành trụ; (iii) một bản thể.",
+              "(i) một thành trụ; (ii) khác chất thể; (iii) một chất thể mà không thể phân thành trụ.",
+              "(i) một bản thể; (ii) một chất thể thành trụ nhưng không phải một chất thể mà không thể phân thành trụ; (iii) một thành trụ với các chất thể riêng."
+          ],
+          "correctAnswerIndex": 3,
+          "explanation": "Hư không và thường hằng là một bản thể vì thuộc phạm vi pháp vô vi. Bình và hạt gió là một chất thể thành trụ nhưng không phải một chất thể mà không thể phân thành trụ, vì thấy bình chưa nhất thiết thấy hạt gió. Tám hạt cơ bản cùng sinh, diệt, trụ nên là một thành trụ, nhưng chất thể của chúng riêng biệt. [Ghi nhớ: Bản thể, chất thể thành trụ và một thành trụ phải được phân biệt theo đúng phạm vi.]",
+          "hint": "Ba trường hợp lần lượt thuộc phạm vi pháp vô vi, chất thể thành trụ và nhiều chất thể đồng thời."
+      },
+      {
+          "id": "w16_27",
+          "text": "Một học viên nói: “Hữu tình, con người, Sư Cô và Tenzin Yangchen cùng chỉ một người, nên tất cả nhất định là Một.” Sai lầm chính là gì?",
+          "options": [
+              "Cho rằng một người có thể được nhận diện ở nhiều khoảng cách khác nhau.",
+              "Đồng nhất cùng một chất thể với Một, bỏ qua các nội dung hiển hiện riêng trong tư duy.",
+              "Cho rằng Sư Cô có thể đồng thời là hữu tình, con người và người Việt Nam trong cùng một cá thể.",
+              "Dùng nhận thức trực tiếp để xác định một người đang di động từ xa."
+          ],
+          "correctAnswerIndex": 1,
+          "explanation": "Các cách nhận diện cùng chỉ một người nên cùng một chất thể, nhưng Một được xác định theo việc các nội dung có hiện ra riêng và có thể phân chia trong tư duy hay không. Hữu tình, con người, Sư Cô và Tenzin Yangchen xuất hiện ở các mức nhận diện riêng. Vì vậy, học viên đã xem cùng một chất thể như điều kiện đủ để kết luận Một. [Ghi nhớ: Cùng một chất thể không đủ kết luận Một nếu các nội dung vẫn hiển hiện riêng.]",
+          "hint": "Kết luận đã chuyển từ việc cùng chỉ một cá thể sang cách các nội dung hiển hiện trong tư duy."
+      },
+      {
+          "id": "w16_28",
+          "text": "Một học viên lập luận: “Bình và hạt gió là một chất thể thành trụ, nên khi thấy bình nhất định phải thấy hạt gió.” Cách sửa nào đúng?",
+          "options": [
+              "Giữ nguyên vì mọi pháp cùng sinh, trụ, diệt đều bắt buộc hiển hiện cùng nhau.",
+              "Đổi thành bình và hạt gió khác chất thể, không có bất kỳ quan hệ thành trụ nào.",
+              "Phân biệt một chất thể thành trụ với một chất thể mà không thể phân thành trụ; thấy bình chưa nhất thiết thấy hạt gió.",
+              "Đổi thành hạt gió là pháp vô vi nên không thể được nhận thức trực tiếp."
+          ],
+          "correctAnswerIndex": 2,
+          "explanation": "Một chất thể thành trụ chỉ xác lập rằng hai pháp cùng một chất thể và đồng thời sinh, trụ, diệt. Muốn khi thấy một phương diện nhất định thấy phương diện kia, còn phải đạt quan hệ một chất thể mà không thể phân thành trụ. Bài nói rõ nhận thức trực tiếp có thể thấy cái bình mà không nhất thiết thấy hạt gió. [Ghi nhớ: Thấy bình chưa nhất thiết thấy hạt gió vì một chất thể thành trụ chưa phải quan hệ không thể phân thành trụ.]",
+          "hint": "Xác định điều kiện nào mới làm cho thấy một phương diện thì nhất định thấy phương diện kia."
+      },
+      {
+          "id": "w16_29",
+          "text": "Xét bốn nhận định: (1) Một loại chất thể được xác định theo nhân chính hoặc dòng chất thể tương tục. (2) Một loại chất thể đồng nghĩa với trình hiện không riêng biệt. (3) Hạt lúa và mầm lúa cùng một loại chất thể nhưng không phải một chất thể. (4) Chỉ cần tên khác nhau là đủ kết luận khác loại chất thể. Nhóm nào đúng?",
+          "options": [
+              "(2) và (4).",
+              "(1) và (2).",
+              "(1) và (3).",
+              "(3) và (4)."
+          ],
+          "correctAnswerIndex": 2,
+          "explanation": "Một loại chất thể tùy thuộc vào nhân chính hoặc dòng chất thể lưu chuyển tương tục trước đó, nên (1) đúng. Hạt lúa và mầm lúa cùng một loại chất thể nhưng hiển hiện riêng, không phải một chất thể, nên (3) đúng. (2) đã lấy định nghĩa một chất thể gán cho một loại chất thể; (4) biến tên gọi thành tiêu chí quyết định. [Ghi nhớ: Một loại chất thể dựa vào nhân chính hoặc dòng tương tục, không dựa riêng vào tên gọi.]",
+          "hint": "Tách tiêu chí dòng nhân quả khỏi tiêu chí trình hiện trực tiếp và sự khác nhau của tên gọi."
+      },
+      {
+          "id": "w16_30",
+          "text": "Chuỗi kết luận nào tổng hợp đúng ba ví dụ: (i) bình vàng và chất vàng; (ii) được làm ra và vô thường; (iii) thanh sô-cô-la và các phản thể?",
+          "options": [
+              "(i) Khác dù không tách thành hai chất; (ii) Một; (iii) cùng một bản thể với các phản thể được biết tuần tự.",
+              "(i) khác chất thể; (ii) một loại chất thể; (iii) mỗi phản thể là một vật riêng.",
+              "(i) Một; (ii) Khác; (iii) các phản thể khác bản thể và được biết đồng thời.",
+              "(i) một bản thể; (ii) khác bản thể dù không thể tách thành hai vật; (iii) thanh sô-cô-la không có phản thể."
+          ],
+          "correctAnswerIndex": 0,
+          "explanation": "Bình vàng và chất vàng có hai sự hiển hiện nên là Khác, dù không phải hai chất tách rời. Được làm ra và vô thường không thể tách thành hai vật nên là Một, dù mức độ nhận biết có thể khác. Thanh sô-cô-la không khác bản thể với các sự phủ định, nhưng có vô số phản thể và ý thức nhận biết chúng lần lượt. [Ghi nhớ: Phải xét đúng tiêu chí: sự hiển hiện, khả năng phân chia và quan hệ bản thể với phản thể.]",
+          "hint": "Lần lượt xét sự hiển hiện, tính không thể tách thành hai vật và quan hệ giữa pháp với các phủ định."
       }
   ]
 };
